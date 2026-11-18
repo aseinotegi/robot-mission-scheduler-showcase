@@ -138,7 +138,7 @@ despliegue, seguridad y observabilidad.
 
 ## 📬 Contacto
 
-**Ander Sein** — Software Engineer
-📧 [asein@alhona.com](mailto:asein@alhona.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ander-sein-a24097195/)
+**Ander Sein** — Ingeniero de automatización e IIoT
+🌐 [andersein.com](https://andersein.com) · 📧 [aseinotegi@gmail.com](mailto:aseinotegi@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ander-sein-a24097195/)
 
 *¿Tienes un reto de software industrial, robótica o plataformas de datos? Hablemos.*
